@@ -6,8 +6,5 @@ pdfkit
 Pillow
 comtypes
 img2pdf
-plistlib
 fpdf
 pandas
-
-
