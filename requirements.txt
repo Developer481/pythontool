@@ -1,4 +1,3 @@
-pip install -r requirements.txt
 Django==3.2.6
 Topdfgen==0.0.2
 
